@@ -13,6 +13,6 @@ Requirements:
 
 You should be able to build a conda environment to run this with minimal difficulty:
 
-conda create --name pygmt --channel conda-forge pygmt jupyter
+    conda create --name pygmt --channel conda-forge pygmt jupyter
 
 (or use 'mamba' instead of 'conda' if you have it installed $-$ it's way faster)
